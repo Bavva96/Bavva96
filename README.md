@@ -3,7 +3,10 @@ Areas of interest:
   | Software Development | Engineering | Cyber
 Student:
 -             | BSc Computing and It |
-Social: 
--    | www.linkedin.com/in/jake-baverstock  |
+Socials: 
+-   | www.linkedin.com/in/jake-baverstock |
+-    | www.facebook.com/jake.baverwtock.7 |
+
+
 -      | I'm not your average uni student |
 
