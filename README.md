@@ -11,6 +11,7 @@
 <section>
 <h3>Areas of interest:</h3>
 <ul>
+<li>| Networking |</li>
 <li>| Software Development |</li>
 <li>| Engineering |</li>
 <li>| Cyber |</li>
@@ -18,8 +19,10 @@
 </section>
 <hr>
 <section>    
-<h3>Student:</h3>
+<h3>Education:</h3>
 <p>| BSc Computing and It |</p>
+<h3>Diplomas:</h3>
+<p>| ICND1 - ICND2 (CCNA) |</p>
 </section>
 <hr>
 <section>
