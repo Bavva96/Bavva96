@@ -52,9 +52,9 @@
 </section>
 
 <hr>
-<footer><div style="text-align: center;">
-  © Jake Baverstock 2024
-</div></footer>
+<footer>
+<div style="text-align: center;"><p>© Jake Baverstock 2024 </p></div>
+</footer>
 </wrapper>
 </body>
 </html>
