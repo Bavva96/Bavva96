@@ -32,9 +32,9 @@
 
 ## Socials:
 
-- LinkedIn
-- Instagram
-- Facebook
+- LinkedIn - www.linkedin.com/in/jake-baverstock
+- Instagram - www.instagram.com/jakeebav1_
+- Facebook - www.facebook.com/jake.baverstock7
 
 ---
 
