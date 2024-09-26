@@ -22,7 +22,7 @@
 <section>    
 <h3>Education:</h3>
 <p>| Student - BSc (Hons) Computing and It | Present |</p>
-<li>
+<hr>
 <h3>Diplomas:</h3>
 <p>| Interconnecting Cisco Networking Devices Part1 - V3 CCNA |</p>
 <p> | Interconnecting Cisco Networking Devices Part 2 - V3 CCNA | </p>
@@ -31,7 +31,7 @@
 <p> | • Responsive Web design • | </p>
 <p> | • Scientific Computing with Python • |</p>
 <p> | • Ethical Hacking: Network Analysis & Vulnerability Scanning • | </p>
-</li>
+
 </section>
 
 
@@ -52,7 +52,9 @@
 </section>
 
 <hr>
-<footer>2024 jake-baverstock</footer>
+<footer><div style="text-align: center;">
+  © Jake Baverstock 2024
+</div></footer>
 </wrapper>
 </body>
 </html>
