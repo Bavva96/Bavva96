@@ -19,11 +19,17 @@
 <hr>
 <section>    
 <h3>Education:</h3>
-<p>| BSc Computing and It |</p>
+<p>| Student - BSc (Hons) Computing and It | Present |</p>
+<li>
 <h3>Diplomas:</h3>
 <p>| Interconnecting Cisco Networking Devices Part1 - V3 CCNA |</p>
 <p> | Interconnecting Cisco Networking Devices Part 2 - V3 CCNA | </p>
 <p> | Computer Networking | </p>
+<h3>Certificates:</h3>
+<p> | • Responsive Web design • | </p>
+<p> | • Scientific Computing with Python • |</p>
+<p> | • Ethical Hacking: Network Analysis & Vulnerability Scanning • | </p>
+</li>
 </section>
 <hr>
 <section>
