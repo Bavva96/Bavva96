@@ -13,8 +13,7 @@
 <ul>
 <li>| Networking |</li>
 <li>| Software Development |</li>
-<li>| Engineering |</li>
-<li>| Cyber |</li>
+<li>| Cybersecurity |</li>
 </ul>
 </section>
 <hr>
@@ -22,7 +21,9 @@
 <h3>Education:</h3>
 <p>| BSc Computing and It |</p>
 <h3>Diplomas:</h3>
-<p>| ICND1 - ICND2 (CCNA) |</p>
+<p>| Interconnecting Cisco Networking Devices Part1 - V3 CCNA |</p>
+<p> | Interconnecting Cisco Networking Devices Part 2 - V3 CCNA | </p>
+<p> | Computer Networking | </p>
 </section>
 <hr>
 <section>
