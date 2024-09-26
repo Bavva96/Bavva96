@@ -52,9 +52,13 @@
 </section>
 
 <hr>
+
 <footer>
-<div style="text-align: center;"><p>© Jake Baverstock 2024 </p></div>
+  <div style="text-align: center;">
+    <p>© Jake Baverstock 2024</p>
+  </div>
 </footer>
+
 </wrapper>
 </body>
 </html>
