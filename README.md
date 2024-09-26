@@ -9,13 +9,15 @@
 <h1>@Bavva96</h1>
 <hr>
 <section>
-<h3>Areas of interest:</h3>
+<h2>Areas of interest:</h2>
 <ul>
 <li>| Networking |</li>
 <li>| Software Development |</li>
 <li>| Cybersecurity |</li>
 </ul>
 </section>
+
+
 <hr>
 <section>    
 <h3>Education:</h3>
@@ -31,6 +33,8 @@
 <p> | • Ethical Hacking: Network Analysis & Vulnerability Scanning • | </p>
 </li>
 </section>
+
+
 <hr>
 <section>
 <h4>Socials:</h4>
@@ -40,13 +44,14 @@
 <li>| www.facebook.com/jake.baverstock7 |</li>
 </ol>
 <hr>
-<h4>Contact</h4>
+<h4>Contact Me</h4>
 <ul>
-<li>| jakebav.info@gmail.com |</li>
+<p><b>| • jakebav.info@gmail.com • | </b></p>
 </ul>
 <hr>
-<p></p>
 </section>
+
+<hr>
 <footer>2024 jake-baverstock</footer>
 </wrapper>
 </body>
